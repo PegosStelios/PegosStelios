@@ -25,7 +25,7 @@
 <br/>
 
 
-- 🔭 I’m currently a full time student at DIEK Pulaias @ Greece on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently a full time student at DIEK Pulaias @ Greece.
 - 🌱 I’m currently learning more about Java.
 - 💬 Ask me about Lua or any tech-related stuff.
 - 📫 How to reach me: [Telegram - @SteliosPegos](https://t.me/SteliosPegos) , [Twitter - @PegosStelios](https://twitter.com/PegosStelios)
