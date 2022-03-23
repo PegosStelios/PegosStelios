@@ -1,6 +1,6 @@
 ## Hey, I'm [Stelios Pegos!](https://pegos.net) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PegosStelios&label=Views&color=blue&style=plastic" alt="PegosStelios" /> </p>
 
 <a href="https://twitter.com/PegosStelios">
   <img align="left" alt="Pego's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
