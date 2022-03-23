@@ -33,17 +33,7 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/PegosStelios?style=social)](https://twitter.com/PegosStelios)
 [![Linkedin: imthepk](https://img.shields.io/badge/-SteliosPegos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SteliosPegos)](https://www.linkedin.com/in/SteliosPegos)
 [![GitHub iampawan](https://img.shields.io/github/followers/PegosStelios?label=follow&style=social)](https://github.com/PegosStelios)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pegos.net-2648ff?style=flat-square&logo=google-chrome)](https://pegos.net/)
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+[![website](https://img.shields.io/badge/PortfolioWebsite-pegos.net-2648ff?style=flat-square&logo=google-chrome)](https://pegos.net/) 
 
 <a href="https://github.com/PegosStelios">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegosStelios&theme=light&hide_langs_below=1" />
