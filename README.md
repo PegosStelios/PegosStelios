@@ -31,7 +31,7 @@
 - 📫 How to reach me: [Telegram - @SteliosPegos](https://t.me/SteliosPegos) , [Twitter - @PegosStelios](https://twitter.com/PegosStelios)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/PegosStelios?style=social)](https://twitter.com/PegosStelios)
-[![Linkedin: imthepk](https://img.shields.io/badge/-SteliosPegos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SteliosPegos)](https://www.linkedin.com/in/SteliosPegos)
+[![Linkedin: imthepk](https://img.shields.io/badge/-SteliosPegos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stelios-pegos)](https://www.linkedin.com/in/stelios-pegos/)
 [![GitHub iampawan](https://img.shields.io/github/followers/PegosStelios?label=follow&style=social)](https://github.com/PegosStelios)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pegos.net-2648ff?style=flat-square&logo=google-chrome)](https://pegos.net/) 
 
