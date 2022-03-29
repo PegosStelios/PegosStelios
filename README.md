@@ -1,6 +1,6 @@
 ## Hey, I'm [Stelios Pegos!](https://pegos.net) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PegosStelios&label=Views&color=blue&style=plastic" alt="PegosStelios" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PegosStelios&label=Views&color=blue&style=dark" alt="PegosStelios" /> </p>
 
 <a href="https://twitter.com/PegosStelios">
   <img align="left" alt="Pegos's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -36,10 +36,10 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-pegos.net-2648ff?style=flat-square&logo=google-chrome)](https://pegos.net/) 
 
 <a href="https://github.com/PegosStelios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegosStelios&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegosStelios&theme=tokyonight&hide_langs_below=1" />
 </a>
 <a href="https://github.com/PegosStelios">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PegosStelios&show_icons=true&theme=light&line_height=27" alt="Pego's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PegosStelios&show_icons=true&theme=tokyonight&line_height=27" alt="Pego's github stats"/>
 </a>
 
 <div align="center">
