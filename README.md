@@ -14,18 +14,12 @@
 <a href="https://t.me/SteliosPegos">
   <img align="left" alt="Pegos's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/stelios_pegos/">
-  <img align="left" alt="Pegos's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/stelios.pegoss">
-  <img align="left" alt="Pegos's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br/>
 <br/>
 
 
-- 🔭 I’m currently a full time student at DIEK Pulaias @ Greece.
+- 🔭 I’m currently a full time student at @ Greece.
 - 🌱 I’m currently learning more about Java.
 - 💬 Ask me about Lua or any tech-related stuff.
 - 📫 How to reach me: [Telegram - @SteliosPegos](https://t.me/SteliosPegos) , [Twitter - @PegosStelios](https://twitter.com/PegosStelios)
