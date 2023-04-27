@@ -20,7 +20,7 @@
 
 
 - 🔭 I’m currently a full time student at @ Greece.
-- 🌱 I’m currently learning more about Java.
+- 🌱 I’m currently learning more about web scraping.
 - 💬 Ask me about Lua or any tech-related stuff.
 - 📫 How to reach me: [Telegram - @SteliosPegos](https://t.me/SteliosPegos) , [Twitter - @PegosStelios](https://twitter.com/PegosStelios)
 
