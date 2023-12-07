@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PegosStelios&label=Views&color=blue&style=dark" alt="PegosStelios" /> </p>
 
-<a href="https://twitter.com/PegosStelios">
+<a href="https://x.com/PegosStelios">
   <img align="left" alt="Pegos's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/stelios-pegos/">
@@ -22,7 +22,7 @@
 - 🔭 I’m currently a full time web developer @ Greece.
 - 🌱 I’m currently learning more about Laravel.
 - 💬 Ask me about Lua or any tech-related stuff.
-- 📫 How to reach me: [Telegram - @SteliosPegos](https://t.me/SteliosPegos) , [Twitter - @PegosStelios](https://twitter.com/PegosStelios)
+- 📫 How to reach me: [Telegram - @SteliosPegos](https://t.me/SteliosPegos) , [X (Formerly Twitter) - @PegosStelios](https://twitter.com/PegosStelios)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/PegosStelios?style=social)](https://twitter.com/PegosStelios)
 [![Linkedin: imthepk](https://img.shields.io/badge/-SteliosPegos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stelios-pegos)](https://www.linkedin.com/in/stelios-pegos/)
