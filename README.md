@@ -11,9 +11,6 @@
 <a href="https://github.com/PegosStelios">
   <img align="left" alt="Pegos's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/SteliosPegos">
-  <img align="left" alt="Pegos's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 
 <br/>
 <br/>
@@ -22,7 +19,7 @@
 - 🔭 I’m currently a full time web developer @ Greece.
 - 🌱 I’m currently learning more about Laravel.
 - 💬 Ask me about Lua or any tech-related stuff.
-- 📫 How to reach me: [Telegram - @SteliosPegos](https://t.me/SteliosPegos) , [X (Formerly Twitter) - @PegosStelios](https://twitter.com/PegosStelios)
+- 📫 How to reach me: [X (Formerly Twitter) - @PegosStelios](https://twitter.com/PegosStelios)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/PegosStelios?style=social)](https://twitter.com/PegosStelios)
 [![Linkedin: imthepk](https://img.shields.io/badge/-SteliosPegos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stelios-pegos)](https://www.linkedin.com/in/stelios-pegos/)
