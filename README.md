@@ -16,9 +16,9 @@
 <br/>
 
 
-- 🔭 I’m currently a full time web developer @ Greece.
-- 🌱 I’m currently learning more about Laravel.
-- 💬 Ask me about Lua or any tech-related stuff.
+- 🔭 I’m currently a full time software developer @ Greece.
+- 🌱 I’m currently learning more about Rust.
+- 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: [X (Formerly Twitter) - @PegosStelios](https://twitter.com/PegosStelios)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/PegosStelios?style=social)](https://twitter.com/PegosStelios)
@@ -27,11 +27,9 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-pegos.net-2648ff?style=flat-square&logo=google-chrome)](https://pegos.net/) 
 
 <a href="https://github.com/PegosStelios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegosStelios&theme=tokyonight&hide_langs_below=1" />
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PegosStelios&theme=github_dark" alt="Pego's github stats"/>
 </a>
-<a href="https://github.com/PegosStelios">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PegosStelios&show_icons=true&theme=tokyonight&line_height=27" alt="Pego's github stats"/>
-</a>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=laravel%2CLaravel%2CF05340%3Bphp%2CPHP%2C6c78af%3Bmariadb%2CMariaDB%2C003545%3B&line2=rust%2CRust%2CD34516%3Blua%2CLua%2C000080%3B" alt="My Tech Stack" />
 
 <div align="center">
 
